@@ -1,4 +1,8 @@
-//	Вычислить значение функции: 
+/*	Вычислить значение функции:
+ *              
+ *  F(x) = {x2 - 3x + 9, если x <= 3
+ *         {1 / (x2 + 6), если x > 3  
+ */        
 
 package branching;
 
@@ -15,5 +19,4 @@ public class NumberFive {
 		}
 		System.out.println("F(x) равен " + y);
 	}
-
 }

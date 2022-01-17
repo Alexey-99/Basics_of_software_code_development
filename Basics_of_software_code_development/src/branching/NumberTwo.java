@@ -1,4 +1,4 @@
-//Найти max{min(a, b), min(c, d)}. 
+/*Найти max{min(a, b), min(c, d)}. */
 
 package branching;
 
