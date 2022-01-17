@@ -1,4 +1,7 @@
-// Вычислить значения функции на отрезке [а,b] c шагом h: 
+/* Вычислить значения функции на отрезке [а,b] c шагом h: 
+y = {x,x > 2
+	{-x,x <= 2	
+*/
 
 package cycles;
 
@@ -15,7 +18,7 @@ public class NumberTwo {
 			x = i;
 			if (x > 2) {
 				y = x;
-			}else if (x <= 2) {
+			} else if (x <= 2) {
 				y = -x;
 			}
 			System.out.println(y);

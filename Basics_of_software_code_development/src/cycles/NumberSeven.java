@@ -12,7 +12,6 @@ public class NumberSeven {
 	public static void main(String[] args) {
 		int m = 0;
 		int n = 0;
-
 		Scanner scan1 = new Scanner(System.in);
 		System.out.println("Введите минимальное число: ");
 		m = scan1.nextInt();
@@ -37,7 +36,6 @@ public class NumberSeven {
 			}
 			System.out.println("");
 		}
-
 		scan1.close();
 		scan2.close();
 	}
