@@ -13,7 +13,5 @@ public class NumberOne {
 		result = ((a - 3) * b - 2) + c;
 		
 		System.out.println("Результат: " + result);
-
 	}
-
 }
