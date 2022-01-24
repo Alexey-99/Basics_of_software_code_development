@@ -1,6 +1,6 @@
 /*Найти max{min(a, b), min(c, d)}. */
 
-package branching;
+package by.home.basics_of_software_code_development.branching;
 
 public class NumberTwo {
 

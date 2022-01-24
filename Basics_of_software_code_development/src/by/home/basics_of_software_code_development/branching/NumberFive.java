@@ -4,7 +4,7 @@
  *         {1 / (x2 + 6), если x > 3  
  */        
 
-package branching;
+package by.home.basics_of_software_code_development.branching;
 
 public class NumberFive {
 

@@ -2,7 +2,7 @@
  * принадлежит закрашенной области, и false — в противном случае:
  */
 
-package linearprograms;
+package by.home.basics_of_software_code_development.linearprograms;
 
 import java.util.Scanner;
 

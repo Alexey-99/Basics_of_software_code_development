@@ -1,6 +1,6 @@
 //Составить программу нахождения произведения квадратов первых двухсот чисел. 
 
-package cycles;
+package by.home.basics_of_software_code_development.cycles;
 
 public class NumberFour {
 

@@ -2,7 +2,7 @@
  * m и n вводятся с клавиатуры. 
  */
 
-package cycles;
+package by.home.basics_of_software_code_development.cycles;
 
 import java.util.Arrays;
 import java.util.Scanner;

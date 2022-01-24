@@ -2,7 +2,7 @@
  * А программа суммирует все числа от 1 до введенного пользователем числа. 
  */
 
-package cycles;
+package by.home.basics_of_software_code_development.cycles;
 
 import java.util.Scanner;
 

@@ -3,7 +3,7 @@ y = {x,x > 2
 	{-x,x <= 2	
 */
 
-package cycles;
+package by.home.basics_of_software_code_development.cycles;
 
 public class NumberTwo {
 

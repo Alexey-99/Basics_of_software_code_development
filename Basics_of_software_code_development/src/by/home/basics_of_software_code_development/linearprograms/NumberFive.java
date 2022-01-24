@@ -2,7 +2,7 @@
   * Вывести данное значение длительности в часах, минутах и секундах в следующей форме: ННч ММмин SSc. 
   */
 
-package linearprograms;
+package by.home.basics_of_software_code_development.linearprograms;
 
 import java.time.LocalTime;
 
