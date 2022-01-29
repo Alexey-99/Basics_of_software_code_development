@@ -3,7 +3,7 @@ y = {x,x > 2
 	{-x,x <= 2	
 */
 
-package by.home.basics_of_software_code_development.cycles;
+package by.koroza.basics_of_software_code_development.cycles;
 
 public class NumberTwo {
 

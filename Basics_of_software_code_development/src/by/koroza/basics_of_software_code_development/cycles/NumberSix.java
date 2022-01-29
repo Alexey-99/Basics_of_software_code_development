@@ -1,6 +1,6 @@
 // Вывести на экран соответствий между символами и их численными обозначениями в памяти компьютера. 
 
-package by.home.basics_of_software_code_development.cycles;
+package by.koroza.basics_of_software_code_development.cycles;
 
 public class NumberSix {
 

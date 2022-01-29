@@ -2,7 +2,7 @@
   * (𝑏 + √𝑏2 + 4𝑎𝑐 / 2𝑎) − 𝑎3𝑐 + 𝑏−2 
   */
 
-package by.home.basics_of_software_code_development.linearprograms;
+package by.koroza.basics_of_software_code_development.linearprograms;
 
 public class NumberTwo {
 

@@ -2,7 +2,7 @@
  * и если да, то будет ли он прямоугольным. 
  */
 
-package by.home.basics_of_software_code_development.branching;
+package by.koroza.basics_of_software_code_development.branching;
 
 public class NumberOne {
 	private static final String ANGLE_A_WAS_ENTERED_INCORRECTLY = "Не верно введен угол A, так как он равен ";

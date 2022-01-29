@@ -1,6 +1,6 @@
 // Найдите значение функции: z = ((a – 3 ) * b / 2) + c. 
 
-package by.home.basics_of_software_code_development.linearprograms;
+package by.koroza.basics_of_software_code_development.linearprograms;
 
 public class NumberOne {
 

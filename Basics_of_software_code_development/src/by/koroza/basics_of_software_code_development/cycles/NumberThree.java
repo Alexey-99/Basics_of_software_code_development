@@ -1,6 +1,6 @@
 // Найти сумму квадратов первых ста чисел. 
 
-package by.home.basics_of_software_code_development.cycles;
+package by.koroza.basics_of_software_code_development.cycles;
 
 public class NumberThree {
 

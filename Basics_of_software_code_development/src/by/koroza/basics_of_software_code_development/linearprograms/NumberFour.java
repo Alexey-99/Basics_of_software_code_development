@@ -2,7 +2,7 @@
  * Поменять местами дробную и целую части числа и вывести полученное значение числа. 
  */
 
-package by.home.basics_of_software_code_development.linearprograms;
+package by.koroza.basics_of_software_code_development.linearprograms;
 
 public class NumberFour {
 

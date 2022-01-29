@@ -2,7 +2,7 @@
  * (𝑠𝑖𝑛𝑥 + 𝑐𝑜𝑠𝑦 / 𝑐𝑜𝑠𝑥 − 𝑠𝑖𝑛𝑦) * 𝑡𝑔 𝑥𝑦  
  */
 
-package by.home.basics_of_software_code_development.linearprograms;
+package by.koroza.basics_of_software_code_development.linearprograms;
 
 public class NumberThree {
 

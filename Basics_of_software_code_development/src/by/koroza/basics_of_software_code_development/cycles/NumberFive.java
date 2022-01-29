@@ -3,7 +3,7 @@
  * an = (1 / 2n) + (1 / 3n)
  */
 
-package by.home.basics_of_software_code_development.cycles;
+package by.koroza.basics_of_software_code_development.cycles;
 
 import java.util.Arrays;
 import java.util.Random;

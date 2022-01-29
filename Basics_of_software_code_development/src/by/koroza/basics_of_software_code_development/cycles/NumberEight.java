@@ -1,6 +1,6 @@
 // Даны два числа. Определить цифры, входящие в запись как первого так и второго числа. 
 
-package by.home.basics_of_software_code_development.cycles;
+package by.koroza.basics_of_software_code_development.cycles;
 
 import java.util.Arrays;
 
